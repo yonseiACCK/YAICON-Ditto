@@ -1,0 +1,5 @@
+data
+ai/models
+db.sqlite3
+*.pyc
+*.pth
