@@ -12,9 +12,9 @@ Team Members: 박지호, 박찬혁, 안정우, 이수민, 장윤호, 최정우
 ## 1. ControlNet
 
 ## Train
-**Our goal is generating high-quality image from even more doodling sketch.**
-
-## Dataset
+*Our goal is generating high-quality image from even more doodling sketch.* <br/>
+We trained preatrained scribble-to-image ControlNet.
+### Dataset
 To train ControlNet on sketch control, caption, sketch and target image are required.  <br/>
 For Dataset, we used `SBU Caption` dataset(860k)
 
