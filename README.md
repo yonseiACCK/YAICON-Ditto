@@ -9,3 +9,4 @@ Team Members: 박지호, 박찬혁, 안정우, 이수민, 장윤호, 최정우
 
 
 
+<img src="https://github.com/devch1013/YAICON-Ditto/blob/main/imgs/DITTO.png">
