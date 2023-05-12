@@ -12,8 +12,13 @@ Team Members: 박지호, 박찬혁, 안정우, 이수민, 장윤호, 최정우
 
 
 
-## Training
+## Train
 
+## Dataset
+
+### Edge Detection
+
+<img src = "https://github.com/devch1013/YAICON-Ditto/blob/main/imgs/edgedetect1.png">
 
 
 
