@@ -16,10 +16,11 @@ Team Members: 박지호, 박찬혁, 안정우, 이수민, 장윤호, 최정우
 
 ## Train
 ***Our goal is to generate high-quality image from even more doodling sketch.***<br/>
-We trained preatrained scribble-to-image ControlNet.
+We trained preatrained scribble-to-image ControlNet.(epoch~~ time~~ ~~)
+
 ### Dataset
 To train ControlNet on sketch control, caption, sketch and target image are required.  <br/>
-For Dataset, we used `SBU Captions` dataset, which is large-scale dataset that contains 860K image-text pairs. <br/>
+We used `SBU Captions` dataset, which is large-scale dataset that contains 860K image-text pairs. <br/>
 
 ### Edge Detection
 To obtain Doodle of the target image, we have tested several edge detectors. <br/>
