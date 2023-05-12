@@ -22,7 +22,7 @@ For Dataset, we used `SBU Caption` dataset(860k)
 To obtain Doodle of the target image, we have tested several edge detectors. <br/>
 We have chose [`PhotoSketch`](https://github.com/mtli/PhotoSketch), which was most human-like doodle.
 
-<img src = "https://github.com/devch1013/YAICON-Ditto/blob/main/imgs/edgedetect1.png" width = "800">
+<img src = "https://github.com/devch1013/YAICON-Ditto/blob/main/imgs/edgedetect1.png" width = "800" align = "center">
 
 ## 2. Web
 
